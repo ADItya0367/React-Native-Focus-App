@@ -6,7 +6,7 @@
 
 
 
-<img align="center"  width="300" paddingleft="500" height="600" src="https://github.com/ADItya0367/React-Native-Focus-App/assets/113133103/35681904-4094-4f44-9cc6-e32f616bf919"> 
+<img align="center"  width="380" paddingleft="800" height="600" src="https://github.com/ADItya0367/React-Native-Focus-App/assets/113133103/35681904-4094-4f44-9cc6-e32f616bf919"> 
 
  <img align="center" paddingleft="180" height="500" src="https://github.com/ADItya0367/React-Native-Focus-App/assets/113133103/d466a35d-e09f-4e19-a35f-579598499b9f"> 
 
